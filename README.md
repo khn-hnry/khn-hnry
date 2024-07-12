@@ -8,7 +8,7 @@ I'm Khairunnisa Maharani, a passionate data science and AI enthusiast. I am curr
 - 👯 I’m looking to collaborate on open-source projects related to data science and AI
 - 🤔 I’m looking for help with finding real-world datasets for my projects
 - 💬 Ask me about data science, AI, and machine learning
-- 📫 How to reach me: khairunnisa.123450071@gmail.com, [LinkedIn](https://www.linkedin.com/in/khnrni)
+- 📫 How to reach me: kn4099411@gmail.com, [LinkedIn](https://www.linkedin.com/in/khnrni)
 - ⚡ Fun facts: I can play the piano and I'm an INTJ-T, known for being a strategic thinker, independent, analytical, innovative, and a perfectionist.
 
 ### Connect with Me
